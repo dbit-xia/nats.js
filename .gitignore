@@ -18,3 +18,4 @@ reports/
 tmp/
 coverage/
 .nyc_output/
+package-lock.json
